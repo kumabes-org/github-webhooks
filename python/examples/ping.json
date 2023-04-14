@@ -1,0 +1,59 @@
+{
+    "zen": "Mind your words, they are important.",
+    "hook_id": 409066638,
+    "hook": {
+      "type": "Organization",
+      "id": 409066638,
+      "name": "web",
+      "active": true,
+      "events": [
+        "*"
+      ],
+      "config": {
+        "content_type": "json",
+        "insecure_ssl": "0",
+        "secret": "********",
+        "url": "http://179.212.99.95:21505"
+      },
+      "updated_at": "2023-04-09T13:42:50Z",
+      "created_at": "2023-04-09T13:42:50Z",
+      "url": "https://api.github.com/orgs/kumabes-org/hooks/409066638",
+      "ping_url": "https://api.github.com/orgs/kumabes-org/hooks/409066638/pings",
+      "deliveries_url": "https://api.github.com/orgs/kumabes-org/hooks/409066638/deliveries"
+    },
+    "organization": {
+      "login": "kumabes-org",
+      "id": 111641209,
+      "node_id": "O_kgDOBqeCeQ",
+      "url": "https://api.github.com/orgs/kumabes-org",
+      "repos_url": "https://api.github.com/orgs/kumabes-org/repos",
+      "events_url": "https://api.github.com/orgs/kumabes-org/events",
+      "hooks_url": "https://api.github.com/orgs/kumabes-org/hooks",
+      "issues_url": "https://api.github.com/orgs/kumabes-org/issues",
+      "members_url": "https://api.github.com/orgs/kumabes-org/members{/member}",
+      "public_members_url": "https://api.github.com/orgs/kumabes-org/public_members{/member}",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111641209?v=4",
+      "description": ""
+    },
+    "sender": {
+      "login": "rotoku",
+      "id": 12417959,
+      "node_id": "MDQ6VXNlcjEyNDE3OTU5",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12417959?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/rotoku",
+      "html_url": "https://github.com/rotoku",
+      "followers_url": "https://api.github.com/users/rotoku/followers",
+      "following_url": "https://api.github.com/users/rotoku/following{/other_user}",
+      "gists_url": "https://api.github.com/users/rotoku/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/rotoku/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/rotoku/subscriptions",
+      "organizations_url": "https://api.github.com/users/rotoku/orgs",
+      "repos_url": "https://api.github.com/users/rotoku/repos",
+      "events_url": "https://api.github.com/users/rotoku/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/rotoku/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  }
+  
